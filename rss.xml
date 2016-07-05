@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Its about perspective]]></title>
         <description><![CDATA[Its about perspective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-vs-liza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 18:01:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 18:11:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-vs-liza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d182d8-739c-4ed0-942d-3274932c4f25.jpg">]]></description>
+            <link>https://thegrid.ai/chris-vs-liza/test/index.html</link>
+            <guid isPermaLink="false">6d611a3e-c91d-46b2-aebb-0e792d40627f</guid>
+            <pubDate>Tue, 05 Jul 2016 18:11:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Checking the way in which plain text displays</p>]]></description>
-            <link>undefinedchecking-the-way-in-which-plain-text-displays/index.html</link>
+            <link>https://thegrid.ai/chris-vs-liza/checking-the-way-in-which-plain-text-displays/index.html</link>
             <guid isPermaLink="false">7447c1f9-1b03-4411-9d7b-2ee35b2481bb</guid>
             <pubDate>Tue, 05 Jul 2016 18:01:46 GMT</pubDate>
         </item>
