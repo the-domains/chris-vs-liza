@@ -1,6 +1,6 @@
 name: Chris vs Liza
 favicon: null
-layout_spectrum: 0.73192
+layout_spectrum: 0
 typography_spectrum: 0.1616541
 title: Its about perspective
 cta:
@@ -24,6 +24,6 @@ color:
     - '#025C26'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.6196742
 purpose: []
