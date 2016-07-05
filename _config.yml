@@ -1,14 +1,28 @@
-layout_spectrum: 0.900376
+name: Chris vs Liza
+favicon: null
+layout_spectrum: 0.73192
+typography_spectrum: 0.1616541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8389724
-  brandStrength: 0.8182957
-  lightness: 0.5488722
   brandColors:
     - '#01E3F7'
     - '#9A01DA'
     - '#EAE4E4'
     - '#031309'
     - '#025C26'
+  brandStrength: 0.8182957
+  lightness: 0.5488722
+  saturation: 0.8389724
   rhythmicContrast: 0.6196742
-typography_spectrum: 0.1616541
-name: Chris vs Liza
+purpose: []
